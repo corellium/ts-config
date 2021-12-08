@@ -5,7 +5,7 @@
 Run the command below to install our TypeScript Config:
 
 ```sh
-yarn add @corellium/ts-config
+yarn add -D @corellium/ts-config
 ```
 
 Also make sure to install the following peer dependencies:
