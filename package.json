@@ -2,7 +2,7 @@
   "name": "@corellium/ts-config",
   "version": "1.0.1",
   "description": "TypeScript Rules and Config for Corellium applications",
-  "main": "index.js",
+  "main": "tsconfig.json",
   "scripts": {
     "release": "auto shipit --base-branch=main",
     "test": "echo \"Error: no test specified\" && exit 1"

@@ -18,6 +18,6 @@ yarn add -D typescript typescript-plugin-css-modules
 
 ```json
 {
-  "extends": "@corellium/ts-config"
+  "extends": "@corellium/ts-config/tsconfig.json"
 }
 ```
