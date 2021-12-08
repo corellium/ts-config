@@ -1,6 +1,6 @@
 {
   "name": "@corellium/ts-config",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "TypeScript Rules and Config for Corellium applications",
   "main": "tsconfig.json",
   "files": [
