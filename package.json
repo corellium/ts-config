@@ -1,0 +1,35 @@
+{
+  "name": "@corellium/ts-config",
+  "version": "1.0.0",
+  "description": "TypeScript Rules and Config for Corellium applications",
+  "main": "index.js",
+  "scripts": {
+    "release": "auto shipit --base-branch=main",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/corellium/ts-config.git"
+  },
+  "keywords": [
+    "typescript",
+    "config",
+    "corellium"
+  ],
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "author": "Hayden Bleasel <hello@haydenbleasel.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/corellium/ts-config/issues"
+  },
+  "homepage": "https://github.com/corellium/ts-config#readme",
+  "devDependencies": {
+    "auto": "^10.32.3"
+  },
+  "peerDependencies": {
+    "typescript": "^4.5.2",
+    "typescript-plugin-css-modules": "^3.4.0"
+  }
+}
