@@ -1,3 +1,16 @@
+# v1.0.1 (Wed Dec 08 2021)
+
+#### ⚠️ Pushed to `main`
+
+- Add initial files ([@haydenbleasel](https://github.com/haydenbleasel))
+- Initial commit ([@haydenbleasel](https://github.com/haydenbleasel))
+
+#### Authors: 1
+
+- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+
+---
+
 # v1.0.3 (Wed Dec 08 2021)
 
 #### ⚠️ Pushed to `main`
