@@ -1,3 +1,15 @@
+# v1.0.2 (Wed Dec 08 2021)
+
+#### ⚠️ Pushed to `main`
+
+- Change main to tsconfig.json ([@haydenbleasel](https://github.com/haydenbleasel))
+
+#### Authors: 1
+
+- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+
+---
+
 # v1.0.1 (Wed Dec 08 2021)
 
 #### ⚠️ Pushed to `main`
