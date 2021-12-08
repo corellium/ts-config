@@ -18,6 +18,13 @@ yarn add -D typescript typescript-plugin-css-modules
 
 ```json
 {
-  "extends": "@corellium/ts-config/tsconfig.json"
+  "extends": "@corellium/ts-config/tsconfig.json",
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["./src/*"],
+      "src/*": ["./src/*"]
+    }
+  }
 }
 ```
