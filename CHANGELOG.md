@@ -1,3 +1,17 @@
+# v1.0.3 (Wed Dec 08 2021)
+
+#### ⚠️ Pushed to `main`
+
+- Remove path aliases ([@haydenbleasel](https://github.com/haydenbleasel))
+- Fix spacing ([@haydenbleasel](https://github.com/haydenbleasel))
+- Add files property ([@haydenbleasel](https://github.com/haydenbleasel))
+
+#### Authors: 1
+
+- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+
+---
+
 # v1.0.2 (Wed Dec 08 2021)
 
 #### ⚠️ Pushed to `main`
