@@ -1,3 +1,15 @@
+# v1.0.6 (Wed Dec 08 2021)
+
+#### ⚠️ Pushed to `main`
+
+- Fix install command ([@haydenbleasel](https://github.com/haydenbleasel))
+
+#### Authors: 1
+
+- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+
+---
+
 # v1.0.5 (Wed Dec 08 2021)
 
 #### ⚠️ Pushed to `main`
