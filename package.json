@@ -4,8 +4,8 @@
   "description": "TypeScript Rules and Config for Corellium applications",
   "main": "tsconfig.json",
   "files": [
-		"tsconfig.json"
-	],
+    "tsconfig.json"
+  ],
   "scripts": {
     "release": "auto shipit --base-branch=main",
     "test": "echo \"Error: no test specified\" && exit 1"
