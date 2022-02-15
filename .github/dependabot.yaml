@@ -5,5 +5,5 @@ updates:
     schedule:
       interval: "weekly"
     assignees:
-      - "haydenbleasel"
+      - "haydenbarnett"
     open-pull-requests-limit: 10
