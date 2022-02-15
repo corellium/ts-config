@@ -1,3 +1,21 @@
+# v1.0.7 (Tue Feb 15 2022)
+
+#### ⚠️ Pushed to `main`
+
+- Assign dependabot PRs to @haydenbarnett ([@haydenbleasel](https://github.com/haydenbleasel))
+
+#### 🔩 Dependency Updates
+
+- Bump auto from 10.32.5 to 10.32.6 [#2](https://github.com/corellium/ts-config/pull/2) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- Bump auto from 10.32.3 to 10.32.5 [#1](https://github.com/corellium/ts-config/pull/1) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+
+#### Authors: 2
+
+- [@dependabot[bot]](https://github.com/dependabot[bot])
+- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+
+---
+
 # v1.0.6 (Wed Dec 08 2021)
 
 #### ⚠️ Pushed to `main`
