@@ -1,3 +1,22 @@
+# v1.0.8 (Wed Jun 15 2022)
+
+#### ⚠️ Pushed to `main`
+
+- Update README.md ([@unknown4unnamed](https://github.com/unknown4unnamed))
+
+#### 🔩 Dependency Updates
+
+- Bump auto from 10.36.5 to 10.37.1 [#6](https://github.com/corellium/ts-config/pull/6) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- Bump auto from 10.34.1 to 10.36.5 [#4](https://github.com/corellium/ts-config/pull/4) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- Bump auto from 10.32.6 to 10.34.1 [#3](https://github.com/corellium/ts-config/pull/3) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+
+#### Authors: 2
+
+- [@dependabot[bot]](https://github.com/dependabot[bot])
+- Vasyl Semilyak ([@unknown4unnamed](https://github.com/unknown4unnamed))
+
+---
+
 # v1.0.7 (Tue Feb 15 2022)
 
 #### ⚠️ Pushed to `main`
