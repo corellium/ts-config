@@ -29,7 +29,7 @@
   },
   "homepage": "https://github.com/corellium/ts-config#readme",
   "devDependencies": {
-    "auto": "^10.37.4"
+    "auto": "^10.42.0"
   },
   "peerDependencies": {
     "typescript": "^4.5.2",
